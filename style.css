@@ -1,0 +1,23 @@
+.card {
+	overflow: hidden;
+}
+
+.card-img-top {
+	transition: .5s;
+}
+
+.card-img-top:hover {
+	transform: scale(1.2);
+	transition: .5s;
+}
+
+.intro {
+	height: 200px;
+	overflow-y: scroll;
+}
+
+.intro p {
+	font-size: 0.8rem;
+	text-indent: 1.6rem;
+	text-align: justify;
+}
